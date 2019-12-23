@@ -62,7 +62,7 @@ python built_in_assert_test.py
 - No boilerplate, no required api
 - We can use Python’s built in assert statement
     ```bash
-    pytest unittest_test.py
+    pytest pytest_test.py
     ```
 
 ## Why pytest
